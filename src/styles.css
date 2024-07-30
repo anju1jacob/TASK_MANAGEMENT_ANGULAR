@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import 'ngx-toastr/toastr';
+body {
+    background-image: url('https://www.claromentis.com/wp-content/uploads/2021/04/6-Great-Benefits-of-Using-Employee-Task-Management-Software.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    
+  }
+
+
+ 
