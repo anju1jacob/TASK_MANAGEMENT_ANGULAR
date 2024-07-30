@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TASKMANAGEMENT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
@@ -29,3 +30,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # TASK_MANAGEMENT_ANGULAR
 >>>>>>> 4f5e7c9954c9af1670276f7511b23cddaa11da60
+=======
+# TASK_MANAGEMENT_ANGULAR
+
+create
+>>>>>>> 1a748b043e16675eca8e378b7a7e6063386e670c
