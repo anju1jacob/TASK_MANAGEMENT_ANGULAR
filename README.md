@@ -7,8 +7,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Features
 
-• Display a list of tasks on the Home page. 
-• Each task item should show the title and status. 
+• Display a list of tasks on the Home page. <br>
+• Each task item should show the title and status.<br> 
 • Provide buttons to navigate to the Create Task and Edit Task pages.
 
 ## Development server
